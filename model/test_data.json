@@ -6,18 +6,18 @@
     "quote": "It’s time for you to look inward and start asking yourself the big question: who are you and what do you want?",
     "id": 1
   },
-  {
-    "source": "Avatar: The Legend of Aang",
-    "genre": "Cartoon",
-    "originator": "Uncle Iroh",
-    "quote": "Failure is the only opportunity to begin again.",
-    "id": 2
-  },
-  {
-    "source": "Avatar: The Legend of Aang",
-    "genre": "Cartoon",
-    "originator": "Uncle Iroh",
-    "quote": "In the darkest times, Hope is something that you give yourself. That is the meaning of inner strength.",
-    "id": 3
-  }
+    {
+      "source": "Avatar: The Legend of Aang",
+      "genre": "Cartoon",
+      "originator": "Uncle Iroh",
+      "quote": "Failure is the only opportunity to begin again.",
+      "id": 2
+    },
+    {
+      "source": "Avatar: The Legend of Aang",
+      "genre": "Cartoon",
+      "originator": "Uncle Iroh",
+      "quote": "In the darkest times, Hope is something that you give yourself. That is the meaning of inner strength.",
+      "id": 3
+    }
 ]

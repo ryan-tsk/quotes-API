@@ -1,11 +1,10 @@
 const express = require("express")
+const Quote = require("../model/Quotes")
 const router = express.Router()
-const fs = require('fs')
 
-router.get("/", (req, res)=> {
-  const rawData = fs.readFileSync("model/test_data.json")
-  const data = JSON.parse(rawData)
-  res.json(data)
+router.get("/", async (req, res)=> {
+  const quoteData = await Quote.findOne()
+  res.send(quoteData)
 })
 
 module.exports = router
